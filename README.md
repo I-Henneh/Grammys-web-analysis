@@ -35,5 +35,5 @@ To explore the notebook:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/I-Henneh/grammys-audience-analysis.git
-   cd grammys-audience-analysis
+   git clone https://github.com/I-Henneh/grammys-web-analysis.git
+   cd grammys-web-analysis
